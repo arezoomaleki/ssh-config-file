@@ -3,3 +3,8 @@ Host {Host-Name}
      port 22
      IdentityFile ~/.ssh/pri.pem
      user root
+Host {Host-Name-2}
+    HostName {IP-Address}
+    port 22
+    IdentityFile ~/.ssh/pri.pem
+    user root
