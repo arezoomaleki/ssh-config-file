@@ -11,3 +11,4 @@ This document shows how to create a SSH config file in Linux
 4- create a file named "config" in ~/.ssh/ using the template above
 
 5- use "ssh {Host-Name}" to connect to the destination server
+
