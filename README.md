@@ -13,6 +13,7 @@ This document shows how to create a SSH config file in Linux to ssh to different
 5- use "ssh {Host-Name}" to connect to the any of the destination servers you've added to the "config" file
 
 
+#add-host.sh script
 
 P.S:  to add a new host with the same parameters you can use the script named "add-host.sh". to use this bash script sample follow below steps:
 
