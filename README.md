@@ -12,3 +12,14 @@ This document shows how to create a SSH config file in Linux to ssh to different
 
 5- use "ssh {Host-Name}" to connect to the any of the destination servers you've added to the "config" file
 
+
+
+P.S:  to add a new host with the same parameters you can use the script named "add-host.sh". to use this bash script sample follow below steps:
+
+1- create a file name add-host.sh using nano or touch command
+
+2- copy the content above into it
+
+3- give execute privilages to the file using chmod (chmod 755 add-host.sh)
+
+4- run the script with your specific variables (./add-host.sh {Name} {IP-Address})
