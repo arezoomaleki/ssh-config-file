@@ -1,5 +1,5 @@
 # ssh-config-file
-This document shows how to create a SSH config file in Linux to ssh different destinations from a single Linux host. It can easily use instead of termius, putty, bitvise and other similar application.
+This document shows how to create a SSH config file in Linux to ssh to different destinations from a single Linux host. It can easily be used instead of termius, putty, bitvise and other similar applications.
 
 
 1- create your private key using "ssh-keygen" command in the source Linux server
